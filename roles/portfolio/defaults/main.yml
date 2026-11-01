@@ -1,0 +1,5 @@
+#SPDX-License-Identifier: MIT-0
+---
+# defaults file for portfolio
+site_header_color: "#0f172a"
+welcome_title: "Portfolio Website"

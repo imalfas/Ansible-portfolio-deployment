@@ -1,0 +1,8 @@
+---
+galaxy_info:
+  author: alfasmuhammad312@gmail.com
+  description: Ansible role to deploy a portfolio website using Nginx
+  license: MIT
+  min_ansible_version: "2.9"
+
+dependencies: []
